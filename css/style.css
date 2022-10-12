@@ -413,7 +413,7 @@ select {
 @media screen and (max-width: 320px) {
   .top {
     height: 667px;
-    background: url(/img/mv.png) no-repeat left -210px center/cover;
+    background: url(https://ayaka03.github.io/daily-trial/img/mv.png) no-repeat left -210px center/cover;
   }
 }
 
