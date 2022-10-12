@@ -402,12 +402,12 @@ select {
 .top {
   position: relative;
   height: 648px;
-  background: url(/img/mv.png) no-repeat center center/cover;
+  background: url(https://ayaka03.github.io/daily-trial/img/mv.png) no-repeat center center/cover;
 }
 @media screen and (min-width: 321px) and (max-width: 767px) {
   .top {
     height: 667px;
-    background: url(/img/mv.png) no-repeat left -210px center/cover;
+    background: url(https://ayaka03.github.io/daily-trial/img/mv.png) no-repeat left -210px center/cover;
   }
 }
 @media screen and (max-width: 320px) {
